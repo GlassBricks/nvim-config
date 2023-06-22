@@ -1,4 +1,4 @@
---local overrides = require "custom.configs.overrides"
+local overrides = require "custom.configs.overrides"
 
 ---@type NvPluginSpec[]
 local plugins = {
